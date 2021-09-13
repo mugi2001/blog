@@ -2,7 +2,6 @@
 
 int main()
 {
-	printf("first push function.c\n");
-	
+	printf("first push function.c");
 	return 0;
 }
